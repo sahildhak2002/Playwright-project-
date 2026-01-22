@@ -39,10 +39,11 @@ Install dependencies
 npm install
 npx playwright install
 
-Run tests
+# Run tests
 npx playwright test
 
-View report
+# View report
 npx playwright show-report
+
 
 
